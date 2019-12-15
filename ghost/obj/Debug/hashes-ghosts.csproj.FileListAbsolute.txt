@@ -1,0 +1,9 @@
+G:\Программирование\С#\ghost.exercise\obj\Debug\hashes-ghosts.csprojAssemblyReference.cache
+G:\Программирование\С#\ghost.exercise\bin\Debug\ghost.exe.config
+G:\Программирование\С#\ghost.exercise\bin\Debug\ghost.exe
+G:\Программирование\С#\ghost.exercise\bin\Debug\ghost.pdb
+G:\Программирование\С#\ghost.exercise\bin\Debug\nunit.framework.dll
+G:\Программирование\С#\ghost.exercise\bin\Debug\nunitlite.dll
+G:\Программирование\С#\ghost.exercise\obj\Debug\hashes-ghosts.csproj.CopyComplete
+G:\Программирование\С#\ghost.exercise\obj\Debug\ghost.exe
+G:\Программирование\С#\ghost.exercise\obj\Debug\ghost.pdb
